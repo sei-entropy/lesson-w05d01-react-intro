@@ -91,7 +91,7 @@ What does a component look like? Let's start with a simple "Hello World" example
 #### Code along: A Very Basic Component
 
 In this section, we'll walk through:
-* Removing the pre-filled contents of your `hello_world` app.
+* Removing the pre-filled contents of your `hello-world` app.
   - `create-react-app` filled your app with sample content - let's make room for your app!
 * Adding your own component definition.
   - You want the app to display the words "Hello World!"

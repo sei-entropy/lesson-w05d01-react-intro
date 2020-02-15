@@ -12,23 +12,17 @@ Let's jump right in! We'll create a skeleton React project and walk through it a
 
 An easy way to start React projects is to use a Terminal program called `create-react-app`. This excellent tool, created by Facebook, will help you set up a bare-bones React app instantly. We can simply install the package and start coding.
 
-Let's use `npm` to install it globally so we'll always have it available in our Terminal. Run:
-
-```sh
-$ npm i -g create-react-app
-```
-
-Once it's installed, create a new directory to store the app you're about to write and `cd` to the folder. Then, use the tool to create a new React app. You'll have to give your new app a name; we're calling the example app "hello_world", since that'll be our first project.
+Let's use `npx` to install it everytime we need to create a new project. You'll have to give your new app a name; we're calling the example app "hello-world", since that'll be our first project.
 
 
 ```sh
-$ create-react-app hello_world
+$ npx create-react-app hello-world
 ```
 
 The tool creates a new directory for your app, so move into it...
 
 ```sh
-$ cd hello_world
+$ cd hello-world
 ```
 
 Use `npm start` to start a server that will serve your new React application!
