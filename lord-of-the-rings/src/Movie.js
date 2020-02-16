@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 
-
+// export the component
 export default class Movie extends Component {
+    // render the passed props from App component (title, hours, minutes)
     render(){
         return(
             <div>
