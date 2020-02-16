@@ -24,7 +24,8 @@ _Choices_:
 2. `Ingredients.js`
 
 ```
-PUT YOUR ANSWER HERE
+PUT YOUR ANSWER HERE:
+It goes in 2.`Ingredients.js`
 ```
 
 
@@ -40,7 +41,8 @@ _Choices_:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 ```
-PUT YOUR ANSWER HERE
+PUT YOUR ANSWER HERE:
+It would display 1
 ```
 
 
@@ -65,7 +67,8 @@ _Choices_:
 2. No
 
 ```
-PUT YOUR ANSWER HERE
+PUT YOUR ANSWER HERE:
+Yes, but it won't render h3 unless the two elements are combined in a div
 ```
 
 
@@ -86,7 +89,8 @@ _Choices_:
 2. No
 
 ```
-PUT YOUR ANSWER HERE
+PUT YOUR ANSWER HERE:
+No, the first argument should be <Cinnamon />
 ```
 
 
