@@ -24,7 +24,6 @@ _Choices_:
 2. `Ingredients.js`
 
 ```
-PUT YOUR ANSWER HERE:
 It goes in 2.`Ingredients.js`
 ```
 
@@ -41,8 +40,8 @@ _Choices_:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 ```
-PUT YOUR ANSWER HERE:
-It would display 1
+It would display 1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
+
 ```
 
 
@@ -67,7 +66,6 @@ _Choices_:
 2. No
 
 ```
-PUT YOUR ANSWER HERE:
 Yes, but it won't render h3 unless the two elements are combined in a div
 ```
 
@@ -89,7 +87,6 @@ _Choices_:
 2. No
 
 ```
-PUT YOUR ANSWER HERE:
 No, the first argument should be <Cinnamon />
 ```
 
@@ -116,7 +113,7 @@ _Choices_:
 4. The `ReactDOM.render` method generates a new element with an ID of `root`, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
 ```
-PUT YOUR ANSWER HERE
+I guess 1??
 ```
 
 
@@ -131,7 +128,7 @@ _Choices_:
 2. False
 
 ```
-PUT YOUR ANSWER HERE
+False, the default export is used when there is only one component to export otherwise use export
 ```
 
 
@@ -147,7 +144,7 @@ _Choices_:
 4. All of the above
 
 ```
-PUT YOUR ANSWER HERE
+4. All of the above.
 ```
 
 
@@ -185,7 +182,7 @@ _Choices_:
 4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 
 ```
-PUT YOUR ANSWER HERE
+1 & 4
 ```
 
 
@@ -203,7 +200,7 @@ _Choices_:
 4. `create-react-app index/jungle_maze.js`
 
 ```
-PUT YOUR ANSWER HERE
+3 
 ```
 
 
@@ -239,7 +236,7 @@ _Choices_:
 2. No
 
 ```
-PUT YOUR ANSWER HERE
+Yes
 ```
 
 
@@ -258,5 +255,5 @@ Choices:
 4. In the component class' `render()` method;  you only need it if you are changing any initial configurations for that class.
 
 ```
-PUT YOUR ANSWER HERE
+4
 ```
