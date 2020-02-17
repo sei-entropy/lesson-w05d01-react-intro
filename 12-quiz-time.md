@@ -25,6 +25,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+1. `Milkshake.js`
 ```
 
 
@@ -41,6 +43,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 
@@ -66,6 +70,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+2. No
 ```
 
 
@@ -87,6 +93,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+1. Yes
 ```
 
 
@@ -113,6 +121,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+4. The `ReactDOM.render` method generates a new element with an ID of `root`, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 ```
 
 
@@ -128,6 +138,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+2. False
 ```
 
 
@@ -144,6 +156,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+3. A library of independent, reusable pieces of user interface that you can call upon to add variability to your application.
 ```
 
 
@@ -182,6 +196,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+1. The `Store` component call needs to end with `/>`, not just `>`
 ```
 
 
@@ -200,6 +216,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+3. `create-react-app jungle_maze`
 ```
 
 
@@ -236,6 +254,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+
+2. No
 ```
 
 
@@ -255,4 +275,6 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
 ```
