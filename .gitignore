@@ -18,6 +18,10 @@ psd
 thumb
 sketch
 
+lord-of-the-rings/node_modules
+lord-of-the-rings/package-lock.json
+lord-of-the-rings/.idea
+
 # End of https://www.gitignore.io/api/react
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
