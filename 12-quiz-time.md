@@ -25,6 +25,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+`Ingredients.js`
 ```
 
 
@@ -41,6 +42,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+`<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 
@@ -66,6 +68,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+No
 ```
 
 
@@ -87,6 +90,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+No
 ```
 
 
@@ -113,6 +117,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+The `ReactDOM.render` method returns JSX to the `Kangaroos` component, and the `Kangaroos` component returns a virtual DOM node. React updates on the webpage only the elements specified in `Kangaroos` that have changed.
 ```
 
 
@@ -128,6 +133,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+False
 ```
 
 
@@ -144,6 +150,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+ All of the above
 ```
 
 
@@ -182,6 +189,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 ```
 
 
@@ -200,6 +208,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+ `create-react-app jungle_maze`
 ```
 
 
@@ -236,6 +245,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+Yes
 ```
 
 
@@ -255,4 +265,6 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+At the top of the component class; you always need it for accurate setup of that class.
+
 ```
