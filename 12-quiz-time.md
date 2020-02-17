@@ -26,7 +26,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1. `Milkshake.js`
 
 -----------------------------------
 
@@ -42,7 +42,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
 
 -----------------------------------
 
@@ -67,7 +67,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+2. No
 
 ----------------------------------
 
@@ -88,7 +88,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1. Yes
 
 ----------------------------------
 
@@ -114,7 +114,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1-
 
 
 -----------------------------------
@@ -129,7 +129,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1. false
 
 ----------------------------------
 
@@ -145,7 +145,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4. All of the above
 
 -----------------------------------
 
@@ -183,9 +183,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
-
-
+ 3 and 4
 ----------------------------------
 
 
@@ -201,7 +199,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+npx `create-react-app jungle_maze`
 
 ----------------------------------
 
@@ -237,7 +235,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+yes
 
 ----------------------------------
 
@@ -256,3 +254,4 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
