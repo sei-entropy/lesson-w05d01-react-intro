@@ -25,7 +25,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+ `Milkshake.js`
 
 
 -----------------------------------
@@ -41,7 +41,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+`<p>My favorite ice cream is {this.props.flavor}!</p>`
 
 
 -----------------------------------
@@ -66,7 +66,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+No
 
 
 ----------------------------------
@@ -87,7 +87,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+No
 
 
 ----------------------------------
@@ -113,7 +113,9 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+The ReactDOM.render method generates a virtual DOM node containing whatever the JSX that the Kangaroos component returns. React then reloads the entire webpage, changing only the element with an ID of root.
+
+
 
 
 
@@ -128,7 +130,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+False
 
 
 ----------------------------------
@@ -144,7 +146,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+A framework created by developers at Facebook. It is aimed at being the 'view' of your Javascript application. It focuses on creating a component-based architecture
+
 
 
 -----------------------------------
@@ -182,7 +185,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+The const groceryList declaration needs to be inside the render method
+
 
 
 
@@ -200,7 +204,8 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+create-react-app jungle_maze
+
 
 
 ----------------------------------
@@ -236,7 +241,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
-```
+No
 
 
 ----------------------------------
@@ -255,4 +260,5 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
-```
+At the top of the component class; you always need it for accurate setup of that class.
+
