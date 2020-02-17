@@ -24,7 +24,8 @@ _Choices_:
 2. `Ingredients.js`
 
 ```
-PUT YOUR ANSWER HERE
+PUT YOUR ANSWER HERE]
+`Milkshake.js`
 ```
 
 
@@ -41,6 +42,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+ `<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 
@@ -66,6 +68,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+1. Yes
 ```
 
 
@@ -87,6 +90,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+2. No
 ```
 
 
@@ -113,6 +117,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+1.
 ```
 
 
@@ -128,6 +133,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+ False
 ```
 
 
@@ -144,6 +150,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+4. All of the above
 ```
 
 
@@ -182,6 +189,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+4.
 ```
 
 
@@ -200,6 +208,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+3.
 ```
 
 
@@ -217,6 +226,7 @@ class Flowers extends Component {
       <Daisy body={this.props.spring} />,
       <Daisy body={this.props.rabbits} />
     ]
+    
 
     return (
       <div>
@@ -236,6 +246,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+2. No
 ```
 
 
@@ -255,4 +266,5 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+4.
 ```
