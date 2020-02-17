@@ -21,6 +21,7 @@ sketch
 lord-of-the-rings/node_modules
 lord-of-the-rings/package-lock.json
 lord-of-the-rings/.idea
+lord-of-the-rings/something
 
 # End of https://www.gitignore.io/api/react
 ### JetBrains template
