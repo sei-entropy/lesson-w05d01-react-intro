@@ -25,6 +25,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+`Ingredients.js`
 ```
 
 
@@ -41,6 +42,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+ `<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 
@@ -66,6 +68,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+No
 ```
 
 
@@ -87,6 +90,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+No
 ```
 
 
@@ -113,6 +117,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of `root`. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.
 ```
 
 
@@ -128,6 +133,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+False
 ```
 
 
@@ -144,6 +150,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+A library of independent, reusable pieces of user interface that you can call upon to add variability to your application.
 ```
 
 
@@ -182,6 +189,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+The Store component call needs to end with />, not just >
 ```
 
 
@@ -200,6 +208,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+create-react-app jungle_maze
 ```
 
 
@@ -236,6 +245,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+Yes
 ```
 
 
@@ -255,4 +265,5 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+At the top of the component class; you always need it for accurate setup of that class.
 ```
