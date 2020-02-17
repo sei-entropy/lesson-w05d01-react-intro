@@ -25,6 +25,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+2. `Ingredients.js
 ```
 
 
@@ -41,6 +42,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+`<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 
@@ -66,6 +68,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+ No
 ```
 
 
@@ -87,6 +90,7 @@ _Choices_:
 
 ```
 PUT YOUR ANSWER HERE
+ Yes
 ```
 
 
