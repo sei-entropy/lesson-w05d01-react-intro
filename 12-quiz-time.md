@@ -24,7 +24,7 @@ _Choices_:
 2. `Ingredients.js`
 
 ```
-PUT YOUR ANSWER HERE
+1. `Milkshake.js`
 ```
 
 
@@ -40,7 +40,7 @@ _Choices_:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 ```
-PUT YOUR ANSWER HERE
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 
@@ -65,7 +65,7 @@ _Choices_:
 2. No
 
 ```
-PUT YOUR ANSWER HERE
+2. No
 ```
 
 
@@ -86,7 +86,7 @@ _Choices_:
 2. No
 
 ```
-PUT YOUR ANSWER HERE
+2. No
 ```
 
 
@@ -112,8 +112,7 @@ _Choices_:
 4. The `ReactDOM.render` method generates a new element with an ID of `root`, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
 ```
-PUT YOUR ANSWER HERE
-```
+The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of `root`. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.``
 
 
 
@@ -127,7 +126,7 @@ _Choices_:
 2. False
 
 ```
-PUT YOUR ANSWER HERE
+2. False
 ```
 
 
@@ -143,7 +142,7 @@ _Choices_:
 4. All of the above
 
 ```
-PUT YOUR ANSWER HERE
+4. All of the above
 ```
 
 
@@ -181,7 +180,10 @@ _Choices_:
 4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 
 ```
-PUT YOUR ANSWER HERE
+1. The `Store` component call needs to end with `/>`, not just `>`
+3. The `const groceryList` declaration needs to be inside the `render` method
+4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
+
 ```
 
 
@@ -199,7 +201,7 @@ _Choices_:
 4. `create-react-app index/jungle_maze.js`
 
 ```
-PUT YOUR ANSWER HERE
+3. `create-react-app jungle_maze`
 ```
 
 
@@ -235,7 +237,7 @@ _Choices_:
 2. No
 
 ```
-PUT YOUR ANSWER HERE
+1. Yes
 ```
 
 
@@ -254,5 +256,5 @@ Choices:
 4. In the component class' `render()` method;  you only need it if you are changing any initial configurations for that class.
 
 ```
-PUT YOUR ANSWER HERE
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
 ```
